@@ -3,6 +3,7 @@
 
 #include "fasttext_wrapper.h"
 #include "fastText/src/main.cc"
+#include "fastText/src/fasttext.cc"
 
 /**
  * FastText's wrapper
